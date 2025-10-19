@@ -1,0 +1,119 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="KOATDT1.us@SD",ABC 7 Albuquerque NM (KOAT) (720p)
+https://livetv-fa.tubi.video/koat/playlist.m3u8
+#EXTINF:-1 tvg-id="KMGHDT1.us@SD",ABC 7 Denver CO (KMGH) (720p)
+https://livetv-fa.tubi.video/kmgh2/playlist.m3u8
+#EXTINF:-1 tvg-id="",Altitude Sports Denver
+https://v13.thetvapp.to/hls/altitude-sports-denver/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="AuroraTV.us@SD",AuroraTV (Aurora CO) (720p)
+https://reflect-aurora.cablecast.tv/live-8/live/live.m3u8
+#EXTINF:-1 tvg-id="BigTenNetwork.us@SD",Big Ten Network
+https://fl41.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="",Big 12 Studios (720p) [Geo-blocked]
+https://aegis-cloudfront-1.tubi.video/d61265ac-4c98-4243-8e23-31fff4d399e1/playlist.m3u8
+#EXTINF:-1 tvg-id="CBSNewsColorado.us@SD",CBS News Colorado (720p)
+https://cbsn-den.cbsnstream.cbsnews.com/out/v1/2e49baf2906244ecb01b07d9885fbe7a/master.m3u8
+#EXTINF:-1 tvg-id="CBSSportsNetworkUSA.us@SD",CBS Sports Network USA
+https://fl41.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.us@East",Disney Channel East
+https://fl41.moveonjoy.com/DISNEY/index.m3u8
+#EXTINF:-1 tvg-id="DisneyJunior.us@East",Disney Junior East
+https://fl41.moveonjoy.com/DISNEY_JR/index.m3u8
+#EXTINF:-1 tvg-id="DisneyXD.us@East",Disney XD (720p)
+http://fl41.moveonjoy.com/DISNEY_XD/index.m3u8
+#EXTINF:-1 tvg-id="ESPNU.us@SD",ESPN U (720p)
+https://fl41.moveonjoy.com/ESPN_U/index.m3u8
+#EXTINF:-1 tvg-id="ESPNews.us@SD",ESPNews (720p)
+https://fl41.moveonjoy.com/ESPN_NEWS/index.m3u8
+#EXTINF:-1 tvg-id="",Fox Sports (720p)
+https://livetv-fa.tubi.video/fox-sports2/index.m3u8
+#EXTINF:-1 tvg-id="",Fox Sports 1
+https://fl41.moveonjoy.com/FOX_Sports_1/index.m3u8
+#EXTINF:-1 tvg-id="",Fox Sports 2 (720p) [Not 24/7]
+https://tvpass.org/live/FoxSports2/hd
+#EXTINF:-1 tvg-id="FX.us@East",FX East
+https://fl41.moveonjoy.com/FX/index.m3u8
+#EXTINF:-1 tvg-id="FXM.us@East",FXM East
+https://fl41.moveonjoy.com/FX_MOVIE/index.m3u8
+#EXTINF:-1 tvg-id="FXX.us@East",FXX East
+https://fl41.moveonjoy.com/FXX/index.m3u8
+#EXTINF:-1 tvg-id="HallmarkChannel.us@East",Hallmark Channel East
+https://fl41.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="HallmarkDrama.us@SD",Hallmark Drama (720p)
+https://fl41.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
+#EXTINF:-1 tvg-id="HallmarkMoviesMysteries.us@East",Hallmark Movies Mysteries East
+https://fl41.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8
+#EXTINF:-1 tvg-id="KidsFlix.us@SD",KidsFlix (1080p) [Not 24/7]
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
+#EXTINF:-1 tvg-id="Lifetime.us@East",Lifetime East
+https://fl41.moveonjoy.com/LIFETIME/index.m3u8
+#EXTINF:-1 tvg-id="LifetimeMovies.us@East",Lifetime Movies East
+https://fl41.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="MGMPlus.us@East",MGM+ East
+https://fl41.moveonjoy.com/EPIX/index.m3u8
+#EXTINF:-1 tvg-id="MLB.us@SD",MLB (720p) [Not 24/7]
+https://aegis-cloudfront-1.tubi.video/36ef2f9d-7100-4c4d-b41a-dbf41ab7e461/playlist.m3u8
+#EXTINF:-1 tvg-id="MLBNetwork.us@SD",MLB Network
+https://fl41.moveonjoy.com/MLB_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="MTV2.us@East",MTV2 (720p)
+https://fl41.moveonjoy.com/MTV_2/index.m3u8
+#EXTINF:-1 tvg-id="MTVClassic.us@East",MTV Classic (360p)
+https://fl41.moveonjoy.com/MTV_CLASSIC/index.m3u8
+#EXTINF:-1 tvg-id="MTV.us@East",MTV East
+https://fl41.moveonjoy.com/MTV/index.m3u8
+#EXTINF:-1 tvg-id="MTVLive.us@SD",MTV Live (720p)
+https://fl41.moveonjoy.com/MTV_LIVE/index.m3u8
+#EXTINF:-1 tvg-id="",Nascar (1080p) [Geo-blocked]
+https://aegis-cloudfront-1.tubi.video/a8586229-0ea0-4eb4-bb23-09674c2a94d3/playlist.m3u8
+#EXTINF:-1 tvg-id="NBATV.us@SD",NBA TV (1080p) [Geo-blocked]
+https://amg00556-amg00556c3-firetv-us-6060.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="",NBC Sports
+https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-id="NFLChannel.us@SD",NFL (720p)
+https://aegis-cloudfront-1.tubi.video/4237973e-9e8c-4ec6-95b3-b7363ce39470/playlist.m3u8
+#EXTINF:-1 tvg-id="NFLNetwork.us@SD",NFL Network
+https://fl41.moveonjoy.com/NFL_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="NFLRedZone.us@SD",NFL RedZone
+https://fl41.moveonjoy.com/NFL_RedZone/index.m3u8
+#EXTINF:-1 tvg-id="NHLNetwork.us@SD",NHL (1080p)
+https://livetv-fa.tubi.video/nhl/playlist.m3u8
+#EXTINF:-1 tvg-id="NHRATV.us@SD",NHRA TV (720p)
+https://livetv-fa.tubi.video/nhra/nh.m3u8
+#EXTINF:-1 tvg-id="NickJr.us@East",Nick Jr. East (720p)
+https://fl41.moveonjoy.com/NICK_JR/index.m3u8
+#EXTINF:-1 tvg-id="NickMusic.us@SD",Nick Music (720p)
+https://fl41.moveonjoy.com/NICK_MUSIC/index.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.us@East",Nickelodeon East
+https://fl41.moveonjoy.com/NICKELODEON/index.m3u8
+#EXTINF:-1 tvg-id="Nicktoons.us@East",Nicktoons East
+https://fl41.moveonjoy.com/NICKTOONS/index.m3u8
+#EXTINF:-1 tvg-id="Pac12Insider.us@SD",Pac 12 Insider
+https://pac12-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ParamountNetwork.us@East",Paramount Network East
+https://fl41.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="PBSKidsMountain.us@SD",PBS Kids Mountain (1080p)
+https://livestream.pbskids.org/out/v1/3fe3030a2c8045a3932f4289d9eba3e6/mst.m3u8
+#EXTINF:-1 tvg-id="",Property Brothers Channel (1080p)
+https://livetv-fa.tubi.video/property-brothers/playlist.m3u8
+#EXTINF:-1 tvg-id="Showtime2.us@East",Showtime 2 East
+https://fl41.moveonjoy.com/SHOWTIME_2/index.m3u8
+#EXTINF:-1 tvg-id="Showtime.us@East",Showtime East
+https://fl41.moveonjoy.com/SHOWTIME/index.m3u8
+#EXTINF:-1 tvg-id="ShowtimeNext.us@East",Showtime Next East
+https://fl41.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
+#EXTINF:-1 tvg-id="Showtime.us@West",Showtime West (1080p)
+https://fl41.moveonjoy.com/SHOWTIME_WEST/index.m3u8
+#EXTINF:-1 tvg-id="ShowtimeWomen.us@East",Showtime Women East
+https://fl41.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
+#EXTINF:-1 tvg-id="Starz.us@East",Starz East
+https://fl41.moveonjoy.com/STARZ/index.m3u8
+#EXTINF:-1 tvg-id="StarzEncoreClassic.us@East",Starz Encore Classic East
+https://fl41.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
+#EXTINF:-1 tvg-id="Starz.us@West",Starz West
+https://fl41.moveonjoy.com/STARZ_WEST/index.m3u8
+#EXTINF:-1 tvg-id="USANetwork.us@East",USA Network (720p)
+http://fl41.moveonjoy.com/USA_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="USANetwork.us@East",USA Network East (1080p) [Not 24/7]
+https://tvpass.org/live/USANetworkEast/hd
+#EXTINF:-1 tvg-id="VH1.us@East",VH1 East
+https://fl41.moveonjoy.com/VH1/index.m3u8
