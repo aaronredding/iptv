@@ -3,5 +3,7 @@
 https://livetv-fa.tubi.video/koat/playlist.m3u8
 #EXTINF:-1 tvg-id="KMGHDT1.us@SD",ABC 7 Denver CO (KMGH) (720p)
 https://livetv-fa.tubi.video/kmgh2/playlist.m3u8
-#EXTINF:-1 tvg-id="",Altitude Sports Denver
-https://tvpass.org/live/altitude-sports-denver
+#EXTINF:-1 tvg-id="altitude-sports-denver" tvg-name="Altitude Sports Denver HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/altitude-sports-us.png" group-title="Live",Altitude Sports Denver HD
+https://tvpass.org/live/altitude-sports-denver/hd
+#EXTINF:-1 tvg-id="KMGHDT1.us@SD",ABC 7 Denver CO (KMGH) (720p)
+https://livetv-fa.tubi.video/kusa/playlist.m3u8
