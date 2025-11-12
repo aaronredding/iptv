@@ -90,22 +90,22 @@ https://fl41.moveonjoy.com/MTV_LIVE/index.m3u8
 #EXTINF:-1 tvg-id="",Nascar (1080p) [Geo-blocked]
 https://aegis-cloudfront-1.tubi.video/a8586229-0ea0-4eb4-bb23-09674c2a94d3/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NBATV.us@SD",NBA TV (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="464912" tvg-name="NBA TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nba-tv-us.png" group-title="live",NBA TV (1080p) [Geo-blocked]
 https://amg00556-amg00556c3-firetv-us-6060.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="",NBC Sports
+#EXTINF:-1 tvg-id="" tvg-name="NBC Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nbc-sports-us.png" group-title="live",NBC Sports
 https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
 
 #EXTINF:-1 tvg-id="NFLChannel.us@SD",NFL (720p)
 https://aegis-cloudfront-1.tubi.video/4237973e-9e8c-4ec6-95b3-b7363ce39470/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NFLNetwork.us@SD",NFL Network
+#EXTINF:-1 tvg-id="465311" tvg-name="NFL Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nfl-network-us.png" group-title="live",NFL Network
 https://fl41.moveonjoy.com/NFL_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-id="NFLRedZone.us@SD" tvg-name="NFL RedZone" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nfl-red-zone-us.png" group-title="live",NFL RedZone
+#EXTINF:-1 tvg-id="465401" tvg-name="NFL RedZone" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nfl-red-zone-us.png" group-title="live",NFL RedZone
 https://fl41.moveonjoy.com/NFL_RedZone/index.m3u8
 
-#EXTINF:-1 tvg-id="NHLNetwork.us@SD" tvg-name="NHL Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nhl-network-us.png" group-title="live",NHL (1080p)
+#EXTINF:-1 tvg-id="465348" tvg-name="NHL Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nhl-network-us.png" group-title="live",NHL (1080p)
 https://livetv-fa.tubi.video/nhl/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NHRATV.us@SD",NHRA TV (720p)
