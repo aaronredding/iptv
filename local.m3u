@@ -12,16 +12,16 @@ https://fl41.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="",Big 12 Studios (720p) [Geo-blocked]
 https://aegis-cloudfront-1.tubi.video/d61265ac-4c98-4243-8e23-31fff4d399e1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="464937",CBS Sports Network USA
+#EXTINF:-1 tvg-id="464937" tvg-name="CBS Sports Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cbs-sports-network-us.png" group-title="live",CBS Sports Network USA
 https://fl41.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-id="465349",Disney Channel East
+#EXTINF:-1 tvg-id="465349" tvg-name="Disney Channel East" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/disney-channel-us.png" group-title="live",Disney Channel East
 https://fl41.moveonjoy.com/DISNEY/index.m3u8
 
-#EXTINF:-1 tvg-id="465320",Disney Junior East
+#EXTINF:-1 tvg-id="465320"tvg-name"Disney Jr. East" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/disney-jr-us.png" group-title="live",Disney Junior East
 https://fl41.moveonjoy.com/DISNEY_JR/index.m3u8
 
-#EXTINF:-1 tvg-id="DisneyXD.us@East",Disney XD (720p)
+#EXTINF:-1 tvg-id="464807" tvg-name="Disney XD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/disney-xd-us.png" group-title="live",Disney XD (720p)
 http://fl41.moveonjoy.com/DISNEY_XD/index.m3u8
 
 #EXTINF:-1 tvg-id="465108" tvg-name="ESPN U" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/espn-u-us.png" group-title="live",ESPN U (720p)
@@ -39,10 +39,10 @@ https://fl41.moveonjoy.com/FOX_Sports_1/index.m3u8
 #EXTINF:-1 tvg-id="",Fox Sports 2 (720p) [Not 24/7]
 https://tvpass.org/live/FoxSports2/hd
 
-#EXTINF:-1 tvg-id="FX.us@East",FX East
+#EXTINF:-1 tvg-id="464813" tvg-name="FX East" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fx-us.png" group-title="live",FX East
 https://fl41.moveonjoy.com/FX/index.m3u8
 
-#EXTINF:-1 tvg-id="FXM.us@East",FXM East
+#EXTINF:-1 tvg-id="465400" tvg-name="FX Movie Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fxm-movie-channel-us.png" group-title="live",FXM East
 https://fl41.moveonjoy.com/FX_MOVIE/index.m3u8
 
 #EXTINF:-1 tvg-id="FXX.us@East",FXX East
