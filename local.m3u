@@ -105,8 +105,8 @@ https://fl41.moveonjoy.com/NFL_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="465401" tvg-name="NFL RedZone" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nfl-red-zone-us.png" group-title="live",NFL RedZone
 https://fl41.moveonjoy.com/NFL_RedZone/index.m3u8
 
-#EXTINF:-1 tvg-id="465348" tvg-name="NHL Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nhl-network-us.png" group-title="live",NHL (1080p)
-https://livetv-fa.tubi.video/nhl/playlist.m3u8
+#EXTINF:-1 tvg-id="NHLNetwork.us" tvg-name="NHL Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nhl-network-us.png" group-title="sports",NHL Network
+https://nhl-firetv.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NHRATV.us@SD",NHRA TV (720p)
 https://livetv-fa.tubi.video/nhra/nh.m3u8
@@ -123,13 +123,13 @@ https://fl41.moveonjoy.com/NICKELODEON/index.m3u8
 #EXTINF:-1 tvg-id="Nicktoons.us@East",Nicktoons East
 https://fl41.moveonjoy.com/NICKTOONS/index.m3u8
 
-#EXTINF:-1 tvg-id="Pac12Insider.us@SD",Pac 12 Insider
+#EXTINF:-1 tvg-id="Pac12Insider.us" tvg-name="Pac-12 Insider" tvg-logo="https://i.imgur.com/736QREy.png" group-title="sports",Pac-12 Insider
 https://pac12-firetv.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ParamountNetwork.us@East",Paramount Network East
 https://fl41.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-id="PBSKidsMountain.us@SD",PBS Kids Mountain (1080p)
+#EXTINF:-1 tvg-id="PBSKidsMountain.us" tvg-name="PBS Kids Mountain" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/pbs-kids-dot-icon-us.png" group-title="education;kids",PBS Kids Mountain
 https://livestream.pbskids.org/out/v1/3fe3030a2c8045a3932f4289d9eba3e6/mst.m3u8
 
 #EXTINF:-1 tvg-id="",Property Brothers Channel (1080p)
