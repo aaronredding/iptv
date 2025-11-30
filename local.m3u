@@ -6,11 +6,14 @@ https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8
 #EXTINF:-1 tvg-id="465288" tvg-name="Altitude Sports Denver HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/altitude-sports-us.png" group-title="Live",Altitude Sports Denver HD
 https://tvpass.org/live/altitude-sports-denver/hd
 
+#EXTINF:-1 tvg-id="",Big 12 Studios on Tubi (720p) [Geo-blocked]
+https://aegis-cloudfront-1.tubi.video/d61265ac-4c98-4243-8e23-31fff4d399e1/playlist.m3u8
+
 #EXTINF:-1 tvg-id="465073" tvg-name="Big Ten Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/big-ten-network-us.png" group-title="live",Big Ten Network
 https://fl41.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-id="",Big 12 Studios (720p) [Geo-blocked]
-https://aegis-cloudfront-1.tubi.video/d61265ac-4c98-4243-8e23-31fff4d399e1/playlist.m3u8
+#EXTINF:-1 tvg-id="473210" tvg-name="BUZZR on Tubi" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/head/main/countries/united-states/buzzr-us.png",BUZZR on Tubi (720p)
+https://livetv-fa.tubi.video/buzzr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="464937" tvg-name="CBS Sports Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cbs-sports-network-us.png" group-title="live",CBS Sports Network USA
 https://fl41.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
@@ -93,16 +96,16 @@ https://aegis-cloudfront-1.tubi.video/a8586229-0ea0-4eb4-bb23-09674c2a94d3/playl
 #EXTINF:-1 tvg-id="464912" tvg-name="NBA TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nba-tv-us.png" group-title="live",NBA TV (1080p) [Geo-blocked]
 https://amg00556-amg00556c3-firetv-us-6060.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NBC Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nbc-sports-us.png" group-title="live",NBC Sports
+#EXTINF:-1 tvg-id="" tvg-name="NBC Sports on Xumo" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nbc-sports-us.png" group-title="live",NBC Sports on Xumo
 https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
 
 #EXTINF:-1 tvg-id="465311" tvg-name="NFL on Tubi" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nfl-icon-us.png" group-title="sports",NFL on Tubi (720p)
 https://aegis-cloudfront-1.tubi.video/4237973e-9e8c-4ec6-95b3-b7363ce39470/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NHLNetwork.us" tvg-name="NHL Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nhl-network-us.png" group-title="sports",NHL Network
+#EXTINF:-1 tvg-id="NHLNetwork.us" tvg-name="NHL Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nhl-network-us.png" group-title="sports",NHL Network on FireTV
 https://nhl-firetv.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NHRATV.us@SD",NHRA TV (720p)
+#EXTINF:-1 tvg-id="NHRATV.us@SD",NHRA TV on Tubi (720p)
 https://livetv-fa.tubi.video/nhra/nh.m3u8
 
 #EXTINF:-1 tvg-id="NickJr.us@East",Nick Jr. East (720p)
@@ -117,7 +120,7 @@ https://fl41.moveonjoy.com/NICKELODEON/index.m3u8
 #EXTINF:-1 tvg-id="Nicktoons.us@East",Nicktoons East
 https://fl41.moveonjoy.com/NICKTOONS/index.m3u8
 
-#EXTINF:-1 tvg-id="Pac12Insider.us" tvg-name="Pac-12 Insider" tvg-logo="https://i.imgur.com/736QREy.png" group-title="sports",Pac-12 Insider
+#EXTINF:-1 tvg-id="Pac12Insider.us" tvg-name="Pac-12 Insider on FireTV" tvg-logo="https://i.imgur.com/736QREy.png" group-title="sports",Pac-12 Insider on FireTV
 https://pac12-firetv.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ParamountNetwork.us@East",Paramount Network East
@@ -126,7 +129,7 @@ https://fl41.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="PBSKidsMountain.us" tvg-name="PBS Kids Mountain" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/pbs-kids-dot-icon-us.png" group-title="education;kids",PBS Kids Mountain
 https://livestream.pbskids.org/out/v1/3fe3030a2c8045a3932f4289d9eba3e6/mst.m3u8
 
-#EXTINF:-1 tvg-id="",Property Brothers Channel (1080p)
+#EXTINF:-1 tvg-id="",Property Brothers Channel - Tubi (1080p)
 https://livetv-fa.tubi.video/property-brothers/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Showtime2.us@East",Showtime 2 East
