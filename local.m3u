@@ -30,13 +30,13 @@ https://fl41.moveonjoy.com/ESPN_U/index.m3u8
 #EXTINF:-1 tvg-id="465410" tvg-name="ESPNews" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/espnews-us.png" group-title="live",ESPNews (720p)
 https://fl41.moveonjoy.com/ESPN_NEWS/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Fox Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fox-sports-us.png" group-title="live",Fox Sports (720p)
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fox-sports-us.png" group-title="live",Fox Sports on Tubi (720p)
 https://livetv-fa.tubi.video/fox-sports2/index.m3u8
 
-#EXTINF:-1 tvg-id="",Fox Sports 1
+#EXTINF:-1 tvg-id="465291" tvg-name="Fox Sports 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fox-sports-1-us.png" group-title="sports",Fox Sports 1
 https://fl41.moveonjoy.com/FOX_Sports_1/index.m3u8
 
-#EXTINF:-1 tvg-id="",Fox Sports 2 (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="465355" tvg-name="Fox Sports 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fox-sports-2-us.png" group-title="sports",Fox Sports 2 (720p) [Not 24/7]
 https://tvpass.org/live/FoxSports2/hd
 
 #EXTINF:-1 tvg-id="464813" tvg-name="FX East" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fx-us.png" group-title="live",FX East
